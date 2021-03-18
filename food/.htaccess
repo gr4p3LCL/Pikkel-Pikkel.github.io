@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Pikkel.org"
-AuthUserFile Pikkel-Pikkel.github.io/.htpasswd
-require valid-user
