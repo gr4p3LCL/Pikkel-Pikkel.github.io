@@ -5,6 +5,10 @@ body {
       'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+body {
+  background-color: #29222E;
+}
+
 .heading {
 	position: absolute;
 	text-align: center;
