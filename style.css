@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  background-color: #29222E;
+	background-color: #29222E;
 }
 
 .heading {
@@ -17,7 +17,7 @@ body {
 }
 
 .heading h3 {
-	color: #f7a8b8;
+	color: #000000;
 	font-size: 20px;
 }
 
